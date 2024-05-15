@@ -15,7 +15,7 @@ const Login = () => {
   return (
     <div
       name="Login Page"
-      className="bg-[#EEEBDD] relative flex justify-center items-center h-auto"
+      className="bg-[#EEEBDD] relative flex justify-center items-center h-full"
     >
       <div
         className="grid justify-center mx-5 my-10 grid-cols-1 
