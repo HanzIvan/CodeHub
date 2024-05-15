@@ -1,0 +1,70 @@
+<div className="">
+  <img src="{content}" alt="" className="w-[80px] mx-auto block" />
+  <h1 className="mt-3 font-semibold">Access to Exclusive Content</h1>
+  <p className="mt-3">
+    Premium subscribers gain access to exclusive courses and learning materials
+    not available to free users.
+  </p>
+</div>
+<div>
+  <img src="{mentor}" alt="" className="w-[80px] mx-auto block" />
+  <h1 className="mt-3 font-semibold">Personalized Mentorship</h1>
+  <p className="mt-3">
+    Access exclusive personalized mentorship sessions with industry experts as a
+    Premium member.
+  </p>
+</div>
+<div>
+  <img src="{support}" alt="" className="w-[80px] mx-auto block" />
+  <h1 className="mt-3 font-semibold">Priority Support</h1>
+  <p className="mt-3">
+    Enjoy priority support as a Premium subscriber, ensuring timely assistance
+    for all inquiries.
+  </p>
+</div>
+<div>
+  <img src="{features}" alt="" className="w-[80px] mx-auto block" />
+  <h1 className="mt-3 font-semibold">Advanced Features</h1>
+  <p className="mt-3">
+    Premium unlocks coding challenges, live webinars, and more for an enriched
+    learning experience.
+  </p>
+</div>
+<div>
+  <img src="{certificate}" alt="" className="w-[80px] mx-auto block" />
+  <h1 className="mt-3 font-semibold">Certificate of Completion</h1>
+  <p className="mt-3">
+    Earn certificates of completion for each course with Premium subscription.
+  </p>
+</div>
+<div>
+  <img src="{network}" alt="" className="w-[80px] mx-auto block" />
+  <h1 className="mt-3 font-semibold">Networking Opportunities</h1>
+  <p className="mt-3">
+    Access exclusive networking events, forums, and communities with Premium
+    membership.
+  </p>
+</div>
+<div>
+  <img src="{career}" alt="" className="w-[80px] mx-auto block" />
+  <h1 className="mt-3 font-semibold">Career Development</h1>
+  <p className="mt-3">
+    Get career development resources like resume reviews and job search help as
+    a Premium member.
+  </p>
+</div>
+<div>
+  <img src="{pricing}" alt="" className="w-[80px] mx-auto block" />
+  <h1 className="mt-3 font-semibold">Flexible Pricing</h1>
+  <p className="mt-3">
+    CodeHub Premium offers flexible pricing and easy cancellation for all
+    learners.
+  </p>
+</div>
+
+<a href="https://facebook.com" className="text-[#222831]">
+  <FontAwesomeIcon icon="{faGoogle}" size="" />
+</a>
+<a href="https://facebook.com" className="text-[#222831]">
+  <FontAwesomeIcon icon="{faApple}" size="2x" />
+</a>
