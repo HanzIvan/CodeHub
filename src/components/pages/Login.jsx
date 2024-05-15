@@ -15,14 +15,15 @@ const Login = () => {
   return (
     <div
       name="Login Page"
-      className="bg-[#EEEBDD] relative flex justify-center items-center h-full"
+      className="bg-[#EEEBDD] relative flex justify-center lg:h-full"
     >
       <div
-        className="grid justify-center mx-5 my-10 grid-cols-1 
+        className=" grid justify-center mx-5 my-10 grid-cols-1 
         md:m-10
-       
-        lg:grid-cols-2 lg:mx-64 
-        h-full shadow-xl  rounded-[40px] p-5 bg-[#F4F6F6] gap-2"
+        
+        lg:grid-cols-2 lg:mx-64 lg:mb-32 lg:mt-16
+
+        shadow-xl  rounded-[40px] p-5 bg-[#F4F6F6] gap-2"
       >
         <div className="flex items-center rounded-lg">
           <img
